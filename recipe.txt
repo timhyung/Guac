@@ -6,3 +6,7 @@ onions
 salt
 pepper
 salsa
+
+follow instructions
+add lime juice
+
